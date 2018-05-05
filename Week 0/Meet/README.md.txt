@@ -16,6 +16,6 @@ For the assignment details click [here](https://github.com/Korusuke/Project-Code
 1.Ordered List 1
 1.Ordered List 2
 
-*[x] Github Videos
-*[x] Assignment for week 0
-*[ ] Week 1
+* [x] Github Videos
+* [x] Assignment for week 0
+* [ ] Week 1
